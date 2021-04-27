@@ -1,7 +1,7 @@
 #ifndef AGRORD_SERVER_HPP
 #define AGRORD_SERVER_HPP
 
-#include <boost/asio.hpp>
+#include <asio.hpp>
 
 class Server
 {
